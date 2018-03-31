@@ -30,7 +30,7 @@ model.h5: 已经训练好的模型<br>
 ## Result
 
 写这个代码的本意是想做个测试，当对一个已经训练好的模型输入不在数据集内的类别的图片时，模型输出的预测概率能达到多少。下面是本人的一些预测结果。<br>
-###Category 1
+### Category 1
 首先，本人向已训练好模型输入一些不在Mnist数据集中的手写数字图片。<br>
 输入模型的测试图片1：<br>
 ![](https://github.com/Goody7/MNIST_CNN/blob/master/test/2.jpg)<br>
@@ -46,7 +46,7 @@ model.h5: 已经训练好的模型<br>
 输出预测结果：<br>
 ![](https://github.com/Goody7/MNIST_CNN/blob/master/result/7_.png)<br>
 
-###Category 2
+### Category 2
 然后，向模型输入一些包含多个数字的图片。<br>
 输入模型的测试图片3：<br>
 ![](https://github.com/Goody7/MNIST_CNN/blob/master/test/16.jpg)<br>
@@ -69,7 +69,7 @@ model.h5: 已经训练好的模型<br>
 输出预测结果：<br>
 ![](https://github.com/Goody7/MNIST_CNN/blob/master/result/504192_.png)<br>
 
-###Category 3
+### Category 3
 最后，向模型输入不在Mnist数据集中的类别的图片（例如飞机、汽车、动物等）。<br>
 输入模型的测试图片6：<br>
 ![](https://github.com/Goody7/MNIST_CNN/blob/master/test/airplane.jpg)<br>
