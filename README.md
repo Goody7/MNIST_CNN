@@ -33,7 +33,7 @@ model.h5: 已经训练好的模型<br>
 ### Category 1
 首先，本人向已训练好模型输入一些不在Mnist数据集中的手写数字图片。<br>
 输入模型的测试图片1：<br>
-![](https://github.com/Goody7/MNIST_CNN/blob/master/test/2.jpg =200*200)<br>
+![](https://github.com/Goody7/MNIST_CNN/blob/master/test/2.jpg)<br>
 经过预处理后的测试图片：<br>
 ![](https://github.com/Goody7/MNIST_CNN/blob/master/result/2.png)<br>
 输出预测结果：<br>
